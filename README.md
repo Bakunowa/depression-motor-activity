@@ -11,6 +11,7 @@ Dane pochodzą z Kaggle: *The Depression Dataset (Depression and Motor Activity)
 ## Dane
 Źródło: Kaggle — *The Depression Dataset* 
 https://www.kaggle.com/datasets/arashnic/the-depression-dataset/data 
+
 Pliki:
 - `control/*.csv` – actigraph dla grupy kontrolnej
 - `condition/*.csv` – actigraph dla grupy condition
